@@ -59,5 +59,6 @@ Through this project, I practised:
 
 ## Author
 Sanjana Chauhan
+
 Created as a beginner JavaScript project to practise API integration and DOM manipulation.
 
